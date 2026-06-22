@@ -1,7 +1,7 @@
-### 🔢 [NuPy](./numpy/)
+### 🔢 [NumPy](./numpy/)
 This section covers the fundamentals of Numerical Python, focusing on high-performance N-dimensional array processing.
 
-#### 🎓 Sessio 1: Fundamentals of N-Dimensional Arrays
+#### 🎓 Session 1: Fundamentals of N-Dimensional Arrays
 In this session, we explored the hierarchy of data structures and essential array manipulation techniques:
 
 **1. Dimensionality & Structure:**
