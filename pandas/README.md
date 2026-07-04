@@ -69,12 +69,12 @@ pandas/
 └── README.md               # This file
 
 
-💻 Quick Start Example
+## 💻 Quick Start Example
 
 To get started, ensure you have pandas installed:
 `pip install pandas`
 
-📚 Resources
+## 📚 Resources
 
     📖 Official Pandas Documentation
     🎥 Pandas Tutorials on YouTube
