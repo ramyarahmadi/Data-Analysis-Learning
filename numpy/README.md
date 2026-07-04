@@ -79,10 +79,19 @@ Matplotlib
 
 
 **📂 Files in this folder:**
+
    `lesson_1_basics.ipynb`: Detailed implementation of the topics mentioned above.
 
    `lesson_2.ipynb`: Detailed about reshape and concatnate the arrays and ...
    
-   `lesson_3.ipynb`: 
-   
+   `lesson_3.ipynb`: Advanced NumPy — Mathematics, Statistics, and Set Operations.
+
+
+📈 Progress Tracker
+
+    [x] Session 1: Foundations
+    [x] Session 2: Array Manipulation
+    [x] Session 3: Advanced NumPy
+    [ ] Session 4: Pandas & DataFrames (Coming Soon!)
+
 
