@@ -68,6 +68,7 @@ Here is a snippet showing the power of Vectorization in Pandas:
 `import pandas as pd`
 
 **1. Create a simple DataFrame**
+
 data = {
 
 'Product': ['Laptop', 'Mouse', 'Monitor', 'Keyboard'],
