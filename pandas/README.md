@@ -75,6 +75,7 @@ data = {
 'Sales': [5, 50, 10, 20]
 
 }
+
 df = pd.DataFrame(data)
 
 **2. Vectorized operation: Calculate Total Revenue in one line**
@@ -92,10 +93,10 @@ print("\nHigh Revenue Products:\n", high_revenue)
 ## 📚 Resources
 
 📖 Official Pandas Documentation
+
 🎥 Pandas Tutorials on YouTube
+
 🧪 Kaggle Datasets for Practice
-
-
 
 
 ## 📂 Directory Structure
