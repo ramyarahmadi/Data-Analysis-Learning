@@ -1,6 +1,4 @@
 ### 🔢 [NumPy](./numpy/)
-This section covers the fundamentals of Numerical Python, focusing on high-performance N-dimensional array processing.
-
 Welcome to my structured learning repository for numpy in Data Analysis. This repository tracks my progress through hands-on sessions, focusing on Python libraries, mathematical foundations, and data manipulation techniques.
 
 📊 Roadmap & Curriculum
