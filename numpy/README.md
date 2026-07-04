@@ -66,16 +66,6 @@ Leveraging NumPy for complex mathematical operations and data insights.
     Logical Masks: Complex boolean filtering and logic.
     Polynomials: Creating and manipulating polynomial functions using the numpy.polynomial package.
 
-🛠️ Tech Stack
-
-Python
-
-NumPy
-
-Jupyter
-
-Matplotlib
-
 
 
 **📂 Files in this folder:**
