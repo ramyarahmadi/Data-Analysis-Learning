@@ -10,13 +10,13 @@ Welcome to my structured learning repository for numpy in Data Analysis. This re
 
 The beginning of the journey: understanding the core concepts of data structures and setting up a professional workspace.
 
-    Introduction to Arrays: Understanding the concept of data containers.
-    Dimensionality: Exploring 1D (Vectors), 2D (Matrices), and Multi-dimensional arrays.
-    Environment Management:
-    Setting up Virtual Environments.
-    Installing essential libraries and managing dependencies.
+Introduction to Arrays: Understanding the concept of data containers.
+Dimensionality: Exploring 1D (Vectors), 2D (Matrices), and Multi-dimensional arrays.
+Environment Management:
+Setting up Virtual Environments.
+Installing essential libraries and managing dependencies.
 
-    In this session, we explored the hierarchy of data structures and essential array manipulation techniques:
+In this session, we explored the hierarchy of data structures and essential array manipulation techniques:
 
          **1. Dimensionality & Structure:**
          *   **Scalar (0D):** A single numerical value.
@@ -25,15 +25,15 @@ The beginning of the journey: understanding the core concepts of data structures
          *   **Tensor (3D+):** Multi-dimensional arrays used in advanced computations.
          *   **Understanding `ndim`:** Analyzing the number of axes in an array.
 
-**2. Array Manipulation & Reshaping:**
-*   **`reshape()`**: Changing the shape of an array without changing its data.
-*   **`flatten()` vs `ravel()`**: Methods for converting multi-dimensional arrays into 1D arrays (understanding memory layout).
-*   **`concatenate()`**: Joining multiple arrays along a specified axis.
-
-**3. Advanced Indexing & Operations:**
-*   **Masking (Boolean Indexing):** Filtering data using conditional logic.
-*   **Slicing & Indexing:** Accessing specific elements and sub-arrays.
-*   **Broadcasting Rules:** How NumPy handles operations between arrays of different shapes.
+         **2. Array Manipulation & Reshaping:**
+         *   **`reshape()`**: Changing the shape of an array without changing its data.
+         *   **`flatten()` vs `ravel()`**: Methods for converting multi-dimensional arrays into 1D arrays (understanding memory layout).
+         *   **`concatenate()`**: Joining multiple arrays along a specified axis.
+        
+         **3. Advanced Indexing & Operations:**
+         *   **Masking (Boolean Indexing):** Filtering data using conditional logic.
+         *   **Slicing & Indexing:** Accessing specific elements and sub-arrays.
+         *   **Broadcasting Rules:** How NumPy handles operations between arrays of different shapes.
 
 🔵 Session 2: NumPy Core - Manipulation & Shaping
 
