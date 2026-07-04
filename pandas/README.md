@@ -76,6 +76,6 @@ To get started, ensure you have pandas installed:
 
 ## 📚 Resources
 
-    📖 Official Pandas Documentation
-    🎥 Pandas Tutorials on YouTube
-    🧪 Kaggle Datasets for Practice
+📖 Official Pandas Documentation
+🎥 Pandas Tutorials on YouTube
+🧪 Kaggle Datasets for Practice
