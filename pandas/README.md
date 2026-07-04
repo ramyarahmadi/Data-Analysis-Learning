@@ -72,7 +72,29 @@ pandas/
 ## 💻 Quick Start Example
 
 To get started, ensure you have pandas installed:
-`pip install pandas`
+
+  pip install pandas
+
+Here is a snippet showing the power of Vectorization in Pandas:
+
+import pandas as pd
+
+# 1. Create a simple DataFrame
+data = {
+'Product': ['Laptop', 'Mouse', 'Monitor', 'Keyboard'],
+'Price': [1200, 25, 300, 75],
+'Sales': [5, 50, 10, 20]
+}
+df = pd.DataFrame(data)
+
+# 2. Vectorized operation: Calculate Total Revenue in one line
+df['Revenue'] = df['Price'] * df['Sales']
+
+# 3. Filter: Products with revenue > 1000
+high_revenue = df[df['Revenue'] > 1000]
+
+print(df)
+print("\nHigh Revenue Products:\n", high_revenue)
 
 ## 📚 Resources
 
