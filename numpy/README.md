@@ -71,9 +71,9 @@ Leveraging NumPy for complex mathematical operations and data insights.
 
 📈 Progress Tracker
 
-    [x] Session 1: Foundations
-    [x] Session 2: Array Manipulation
-    [x] Session 3: Advanced NumPy
-    [ ] Session 4: Pandas & DataFrames (Coming Soon!)
+    [✔] Session 1: Foundations
+    [✔] Session 2: Array Manipulation
+    [✔] Session 3: Advanced NumPy
+    [ ] Session 4: Pandas & DataFrames (in pandas folder)
 
 
